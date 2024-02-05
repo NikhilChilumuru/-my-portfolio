@@ -27,7 +27,7 @@ import TagsArray from "./TagsArray";
 
 export default function Experience({ color }) {
   const experience = ExperienceArray();
-  const options = TagsArray("ExperienceTags");
+    const options = TagsArray("ExperienceTags");
   const [selected, setSelected] = useState("");
 
   useEffect(() => {

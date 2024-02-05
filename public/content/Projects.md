@@ -9,7 +9,7 @@ A dynamic Discord bot in Java and Spring Reactor, revolutionizing member engagem
 
 ## InterviewReady360
 A versatile Interview Preparation Portal showcasing proficiency in React, Express, Node.js, and MongoDB, featuring diverse functionalities for feedback, blogs, user profiles, quizzes, progress monitoring.
-- ![600x200](https://via.placeholder.com/600x200)
+- ![600x200](../assets/interview_potal_img.jpeg)
 - Tags: Category 2
 - Badges:
   - MongoDB, ExpressJs, ReactJS, NodeJS [blue]
