@@ -18,7 +18,7 @@ A versatile Interview Preparation Portal showcasing proficiency in React, Expres
 
 ## ASL Digit Detection:
 A ResNet inspired CNN model to detect sign language from images.
-- ![600x200](https://via.placeholder.com/600x200)
+- ![600x200](../assets/ASL image.jpeg)
 - Tags: Category 3
 - Badges:
   - Python, TensorflowJS, Docker, Heroku [blue]
