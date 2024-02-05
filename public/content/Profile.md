@@ -11,9 +11,9 @@ I'm a computer science enthusiast on a mission to innovate. Dive into my world o
 
 ## Contact
 Write your "Contact" section here.
-- LinkedIn: https://www.linkedin.com/in/nikhil-chilumuru/
+- LinkedIn: https://linkedin.com/in/nikhil-chilumuru/
 - GitHub: https://github.com/NikhilChilumuru
 - Email: chilumurunikhilreddy@gmail.com
 
 ## Logo
-- EB
+- NC
