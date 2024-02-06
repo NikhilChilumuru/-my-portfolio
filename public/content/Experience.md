@@ -18,7 +18,7 @@
   - Demonstrated effective teaching, mentoring, and improved grading transparency through a comprehensive rubric.
 ## Verticle Technologies
 - *Software Development Intern* | Jan'22 - Sep'22
-- ![logo512](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+- ![logo512](../assets/vert_logo.jpg)
 - Tags: Verticle Tech
 - Badges:
   - React, Firebase, Spring Boot [blue]
