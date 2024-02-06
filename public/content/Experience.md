@@ -1,6 +1,6 @@
 ## Stevens Institute of Technology
 - *Graduate Teaching Assistant* | Jan'24 - Present
-- ![logo512](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+- ![logo512](https://cdn.freelogovectors.net/wp-content/uploads/2023/07/stevens_institute_of_technology-logo-freelogovectors.net_.png)
 - Tags: Stevens CA 1
 - Badges:
   - Python , Java [blue]
@@ -10,7 +10,7 @@
 
 ## Stevens Institute of Technology
 - *Graduate Teaching Assistant* | Sep'23 - Dec'23
-- ![logo512](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+- ![logo512](https://cdn.freelogovectors.net/wp-content/uploads/2023/07/stevens_institute_of_technology-logo-freelogovectors.net_.png)
 - Tags: Stevens CA 2
 - Badges:
   - Python , Java [blue]
